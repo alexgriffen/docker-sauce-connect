@@ -14,6 +14,7 @@ make note of the image ID:
 run the image after its been built
 
  
+Or pull down the container and run directly 
 
 docker run -it iflanagan/sctunnels:firsttag <SAUCEUSERNAME> <SAUCEACCESSKEY> <Web/HEADLESS/RDCEU/RDCUS> <TunnelId>
 
