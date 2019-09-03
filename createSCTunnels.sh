@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-# Author: Ian Flanagan Sauce Labs 2019
+# Author: IMF  Sauce Labs 2019
 
 echo "starting Create Sauce Tunnels script."
 clear
