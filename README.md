@@ -21,8 +21,8 @@ Stop the container from running (i.e. kill the tunnel)
 
 docker containers ls
 
-<find the image ID>
+<find the container ID>
  
- docker stop <ID>
+ docker stop <CONTAINER ID>
  
  
