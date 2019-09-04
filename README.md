@@ -20,7 +20,7 @@ docker run -it iflanagan/sctunnels:firsttag <SAUCEUSERNAME> <SAUCEACCESSKEY> <We
 
 Stop the container from running (i.e. kill the tunnel) 
 
-docker containers ls
+docker container ls
 
 <find the container ID>
  
